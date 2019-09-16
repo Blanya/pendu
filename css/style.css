@@ -1,0 +1,13 @@
+#cvn
+{
+    border: 1px black solid;
+}
+#text
+{
+    background-color: black;
+    color:white;
+    position: absolute;
+    top: 2em;
+    font-size: 3em;
+    right: 2em;
+}
